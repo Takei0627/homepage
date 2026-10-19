@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <title>ページのタイトル</title>
+  <title>竹井のホームページ</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="ここにサイトの簡潔な説明（約50〜100 文字）を入れる。">
